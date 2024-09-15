@@ -1,11 +1,12 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
-##Dependency
+## Dependency
 
-Node.JS is installed
+Node.JS is installed  
 
-##How to run it
-`npm start`
+## How to run it
+`npm start`  
+
 In the browser: https://localhost:3000
 
 
